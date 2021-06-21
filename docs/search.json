@@ -3,10 +3,10 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "Some additional details about the website",
+      "description": "My name is **Yuhan Wu**, I am an freshman in Newton North High School, located in MA, I enjoy economics, debate and math.",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-20T23:02:44-04:00"
+      "contents": "\nAbout the Project\nMy Project, Fluctuation between 3 Cities, is about trying to compared the housing price fluctuation of three major city in US, how each city performs and trying to find why this is the case\"\nGoals\nGraph 3 lines of date vs HPI\nFill with colors\nInteractive\nMaking the points move or have motion\n‘“This is data science”’ “~ Preceptor” “Kane’s Free High School Data Science Bootcamp”\n\n\n\n\n\n\n",
+      "last_modified": "2021-06-21T13:48:49-04:00"
     },
     {
       "path": "index.html",
@@ -15,6 +15,20 @@
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
       "last_modified": "2021-06-21T10:18:15-04:00"
+    },
+    {
+      "path": "sources.html",
+      "title": "Sources",
+      "description": "“An overview of sources used in my project”.\n",
+      "author": [
+        {
+          "name": "Yuhan Wu",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n“This is where I will describe what sources I used and why I chose them. I may also discuss any broad challenges I faced while finding sources.”\n\n\n\n",
+      "last_modified": "2021-06-21T14:18:17-04:00"
     }
   ],
   "collections": []

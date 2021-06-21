@@ -1,10 +1,30 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  My name is **Yuhan Wu**, I am an freshman in Newton North High School, located in MA, I enjoy economics, debate and math.
 ---
+
+## About the Project ##
+  My Project, *Fluctuation between 3 Cities*, is about trying to compared the housing price fluctuation of three major city in US, how each city performs and trying to find why this is the case"
+  
+### Goals ###
+* Graph 3 lines of date vs HPI
+
+* Fill with colors
+
+* Interactive
+
++ Making the points move or have motion
+
+‘“This is data science”’  “~ Preceptor”
+[“Kane’s Free High School Data Science Bootcamp”]( https://bootcamp.davidkane.info)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+
+```{r}
+
 ```
 
